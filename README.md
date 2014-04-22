@@ -5,7 +5,7 @@ Provides color and formatting methods for use in the terminal.
 
 ## INSTALL:
 
-  gem install terminal-display
+	gem install terminal-display
 
 ## LICENSE:
 
