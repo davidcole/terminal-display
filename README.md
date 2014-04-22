@@ -3,10 +3,10 @@ terminal-display
 
 Provides color and formatting methods for use in the terminal.
 
-== INSTALL:
+## INSTALL:
 
   gem install terminal-display
 
-== LICENSE:
+## LICENSE:
 
 terminal-display is released under the [MIT License](http://www.opensource.org/licenses/MIT).
